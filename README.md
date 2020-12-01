@@ -4,5 +4,6 @@
 
 ### I'm...
 🔭 currently working on an react-native based quiz app 👾    
-🌱 learning typescript & digital black magic 🧙🏻‍♂️   
+🌱 learning typescript & c# 💻   
+🆙 leveling up my digital black magic skills 🧙🏻‍♂️    
 📫 reachable via [twitter](https://twitter.com/thedevofthings) 🦉
