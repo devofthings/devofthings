@@ -3,7 +3,6 @@
 
 
 ### I'm...
-🔭 currently working    
-🌱 learning typescript & c# 💻   
+🔭    
+🌱    
 🆙 leveling up my digital black magic skills 🧙🏻‍♂️    
-📫 reachable via [twitter](https://twitter.com/thedevofthings) 🦉
