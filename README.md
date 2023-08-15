@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chris</h1>
-<h3 align="center">A developer from Germany</h3>
+<h3 align="center">A developer of things from Germany</h3>
 
 - 🔭 I’m currently working on **stæps**
 
@@ -8,4 +8,3 @@
 
 <h3 align="left">Stats:</h3>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=devofthings&show_icons=true&theme=dark&locale=en&layout=compact" alt="devofthings" width="100%" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devofthings&show_icons=true&theme=dark&locale=en" alt="devofthings" width="100%" /></p>
